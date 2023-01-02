@@ -1,0 +1,30 @@
+html {
+    background-color: khaki;
+    font-family: fantasy;
+    color: rgb(101, 43, 226);
+}
+
+h1 {
+    color: rgb(101, 43, 226);
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.oxtail-img {
+   display: flex;
+   max-height: 282px;
+}
+
+
+
